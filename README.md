@@ -141,16 +141,4 @@ Predicted Digit (0–9)
 
 This project demonstrates the basic workflow of building an image classification system using a Convolutional Neural Network. It can serve as an introduction to deep learning, computer vision, and handwritten digit recognition with TensorFlow/Keras.
 
-## 📌 Future Improvements
 
-* Add model evaluation on the MNIST test set
-* Display accuracy and loss graphs
-* Add a confusion matrix
-* Support multiple input image formats
-* Improve prediction preprocessing for handwritten images
-* Build a simple web interface for digit recognition
-* Upgrade the saved model format to `.keras`
-
-## 📄 License
-
-This project is available for educational and personal use.
